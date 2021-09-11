@@ -23,3 +23,12 @@ Challenge from Brad Traversy & Florin Pop on Udemy '50 Projects in 50 Days'
 ---
 
 ## Takeaways from the instructor
+
+2. CSS
+
+- body min-height:100vh instead of height avoid hidden title and images on the top of the screen.
+- Flexbox for the images => responsive than grid
+
+3. JavaScript
+
+- random size range between 300 and 310
